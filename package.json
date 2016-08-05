@@ -1,0 +1,16 @@
+{
+  "name": "activity_nexus_server",
+  "version": "1.0.0",
+  "description": "aplicacion node y express de ejemplo",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Mario Riascos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.5"
+  }
+}
